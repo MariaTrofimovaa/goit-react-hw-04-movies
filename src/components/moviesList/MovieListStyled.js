@@ -5,7 +5,6 @@ export const MovieListContainer = styled.ul`
   flex-wrap: wrap;
   justify-content: space-around;
   padding: 40px;
-  margin: -20px;
   list-style: none;
 
   .listItem {
